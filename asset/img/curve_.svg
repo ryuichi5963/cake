@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 51 52">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #c69c6d;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" width="51" height="52"/>
+    </clipPath>
+  </defs>
+  <g id="_スクロール" data-name="スクロール">
+    <g class="cls-4">
+      <path class="cls-1" d="m30.61,50.62h0c0-16.57-13.41-30-29.96-30h0v-1943h1038.46V20.62h0c-16.54,0-29.96,13.43-29.96,30h0s-978.55,0-978.55,0Z"/>
+      <path class="cls-2" d="m20.62.62v-1903h998.52V.62c-16.57,0-30,13.43-30,30H50.62C50.62,14.05,37.19.62,20.62.62Z"/>
+    </g>
+  </g>
+</svg>

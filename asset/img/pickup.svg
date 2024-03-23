@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168.4 47.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f85c82;
+        font-family: MVBoli, 'MV Boli';
+        font-size: 40px;
+        stroke: #f85c82;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="_文字" data-name="文字">
+    <text class="cls-1" transform="translate(.5 34.8)"><tspan x="0" y="0">PICK UP</tspan></text>
+  </g>
+</svg>
